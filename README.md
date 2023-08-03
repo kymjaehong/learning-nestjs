@@ -1,3 +1,6 @@
+# 노마드 코더
+[[NestJS로 API 만들기]](https://nomadcoders.co/nestjs-fundamentals/lectures/1951)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
